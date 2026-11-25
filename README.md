@@ -4,9 +4,10 @@
 <!-- ================================================== -->
 
 <div align="center">
-
-<!-- CUSTOM PROFILE BANNER -->
-<img src="./assets/github-banner.png" width="100%" alt="Mohsin Ali - Cybersecurity and Development Banner"/>
+  <img src="./assets/github-banner.png"
+       width="100%"
+       alt="Mohsin Ali Cybersecurity Banner">
+</div>
 
 <br/>
 
