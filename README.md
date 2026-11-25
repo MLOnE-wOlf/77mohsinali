@@ -22,11 +22,14 @@
   <a href="https://stackoverflow.com/users/mohsin ali" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="45" alt="Stack Overflow">
   </a>
-  <a href="https://fb.com/77" target="_blank" rel="noopener">
+  <a href="https://www.facebook.com/share/1CbCeL41eV/" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" alt="Facebook">
   </a>
-  <a href="https://instagram.com/77ali.mohsin" target="_blank" rel="noopener">
+  <a href="https://www.instagram.com/77_a_l_i_m_o_h_s_i_n?utm_source=qr&jplx=NjV4dmo4MHRxOXM4" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45" alt="Instagram">
+  </a>
+  <a href="https://www.instagram.com/77_a_l_i_m_o_h_s_i_n?utm_source=qr&jplx=NjV4dmo4MHRxOXM4" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" width="45" alt="LinkedIn">
   </a>
 
 </p>
